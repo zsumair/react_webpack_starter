@@ -13,6 +13,18 @@ npm start
 # Build for production
 npm run build
 ```
+## Dependencies
+
+``` bash
+# React
+react react-dom
+
+# Webpack
+--save-dev webpack webpack-dev-server webpack-cli
+
+# Babel
+--save-dev babel-core babel-loader babel-preset-env babel-preset-react html-webpack-plugin
+```
 
 ## App Info
 
